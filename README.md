@@ -1,4 +1,4 @@
-https://i.imgur.com/CGMYn49.png
+https://i.imgur.com/eE4qSXW.jpg
 
 # dev-environment-lab
 
