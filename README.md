@@ -1,4 +1,4 @@
-https://i.imgur.com/eE4qSXW.jpg
+<a href="https://i.imgur.com/eE4qSXW.jpg"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
 
 # dev-environment-lab
 
